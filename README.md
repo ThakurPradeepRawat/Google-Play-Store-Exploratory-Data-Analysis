@@ -21,7 +21,6 @@ The Play Store is a massive app marketplace. This project performs data analysis
 - **Pandas** – for data cleaning and manipulation  
 - **NumPy** – for numerical computation  
 - **Matplotlib & Seaborn** – for data visualization  
-- **Plotly (optional)** – for interactive plots  
 - **Jupyter Notebook** – for analysis and presentation  
 
 ---
